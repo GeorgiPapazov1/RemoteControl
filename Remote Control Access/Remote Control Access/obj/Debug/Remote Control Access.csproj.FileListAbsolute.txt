@@ -1,0 +1,15 @@
+C:\Users\Kostadin-PC\source\repos\Remote Control Access\Remote Control Access\obj\Debug\Remote Control Access.csproj.AssemblyReference.cache
+C:\Users\Kostadin-PC\source\repos\Remote Control Access\Remote Control Access\obj\Debug\Remote Control Access.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kostadin-PC\source\repos\Remote Control Access\Remote Control Access\obj\Debug\Remote_Control_Access.mainForm.resources
+C:\Users\Kostadin-PC\source\repos\Remote Control Access\Remote Control Access\obj\Debug\Remote_Control_Access.Properties.Resources.resources
+C:\Users\Kostadin-PC\source\repos\Remote Control Access\Remote Control Access\obj\Debug\Remote_Control_Access.ScreenForm.resources
+C:\Users\Kostadin-PC\source\repos\Remote Control Access\Remote Control Access\obj\Debug\Remote Control Access.csproj.GenerateResource.cache
+C:\Users\Kostadin-PC\source\repos\Remote Control Access\Remote Control Access\obj\Debug\Remote Control Access.csproj.CoreCompileInputs.cache
+C:\Users\Kostadin-PC\source\repos\Remote Control Access\Remote Control Access\bin\Debug\Remote Control Access.exe.config
+C:\Users\Kostadin-PC\source\repos\Remote Control Access\Remote Control Access\bin\Debug\Remote Control Access.exe
+C:\Users\Kostadin-PC\source\repos\Remote Control Access\Remote Control Access\bin\Debug\Remote Control Access.pdb
+C:\Users\Kostadin-PC\source\repos\Remote Control Access\Remote Control Access\obj\Debug\Remote Control Access.exe
+C:\Users\Kostadin-PC\source\repos\Remote Control Access\Remote Control Access\obj\Debug\Remote Control Access.pdb
+C:\Users\Kostadin-PC\source\repos\Remote Control Access\Remote Control Access\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\Kostadin-PC\source\repos\Remote Control Access\Remote Control Access\bin\Debug\AudioSwitcher.AudioApi.dll
+C:\Users\Kostadin-PC\source\repos\Remote Control Access\Remote Control Access\obj\Debug\Remote Control Access.csproj.CopyComplete
